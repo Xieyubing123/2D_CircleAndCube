@@ -1,1 +1,1 @@
-#Follow instruction to install and play the game
+# Follow instruction to install and play the game
