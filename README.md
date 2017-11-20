@@ -34,6 +34,6 @@
         start the game.
         
 ## Input Device and Control button:
-        You need a Xbox controler. Use left sticker to control movement,
+        You need a Xbox controler to play the game. Use left sticker to control movement,
         use button to perform different action. The tutorial level will
         teach you how to play the game.
